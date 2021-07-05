@@ -1,4 +1,4 @@
-## How we'd like to recieve the soluion?
+## How we'd like to recieve the solution?
 
 1. Clone this repository and upload it as a new public repository in your github account
 2. Create a new branch in your repository
